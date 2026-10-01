@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+.test-install/
+previews/
+*.local.md
+validate_resources.py
